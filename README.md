@@ -18,14 +18,16 @@ This course focuses on applying computational methods to conducting social scien
 
 ## Grades
 
-| Assignment | Points |
-|-------------------------|--------|
-| Proposal | 10 |
-| Literature review | 15 |
-| Methods/initial results | 15 |
-| Poster presentation | 30 |
-| Final paper | 40 |
-| **Total Points** | 110 |
+| Assignment | Points | Quantity | Total points |
+|-----------------------------|--------|----------|--------------|
+| Proposal | 10 | 1 | 10 |
+| Literature review | 15 | 1 | 15 |
+| Methods/initial results | 15 | 1 | 15 |
+| Peer evaluations of posters | 2 | 5 | 10 |
+| Poster presentation | 30 | 1 | 30 |
+| Final paper | 40 | 1 | 40 |
+| Problem set | 10 | 3 | 30 |
+| **Total Points** |  |  | 150 |
 
 ## Disability services
 

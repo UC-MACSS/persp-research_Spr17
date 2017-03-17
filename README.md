@@ -36,7 +36,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 ## Course schedule (lite)
 
 | Date | Day | Topic | Readings | Assignment due dates |
-|---------|-----|-----------------------------------------|----------|-------------------------|
+|---------|-----|-----------------------------------------------|----------|-------------------------|
 | Mar. 27 | M | Overview of term |  |  |
 | Mar. 29 | W | Reproducibility in science |  |  |
 | Apr. 3 | M | Abstract/intro/conclusion |  |  |
@@ -53,7 +53,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 10 | W | Missing data and multiple imputation |  |  |
 | May 15 | M | Multilevel data |  | Hodgepodge PS |
 | May 17 | W | p-hacking |  | Methods/initial results |
-| May 22 | M |  |  |  |
+| May 22 | M | Frequentist vs. Bayesian schools of inference |  |  |
 | May 24 | W | Effective presentations (poster/slides) |  |  |
 | May 29 | M | No class (Memorial Day) |  |  |
 | May 31 | W | In-class poster presentations |  |  |

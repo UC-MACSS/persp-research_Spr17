@@ -33,30 +33,30 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 ## Course schedule (lite)
 
-| Date | Day | Topic | Readings | Assignment |
-|---------|-----|------------------------|----------|-----------------------------|
-| Mar. 27 | M |  |  |  |
-| Mar. 29 | W |  |  |  |
-| Apr. 3 | M |  |  |  |
-| Apr. 5 | W | Proposal presentations |  |  |
-| Apr. 10 | M |  |  | Proposal due |
-| Apr. 12 | W |  |  |  |
-| Apr. 17 | M |  |  |  |
-| Apr. 19 | W |  |  |  |
-| Apr. 24 | M |  |  |  |
-| Apr. 26 | W |  |  | Lit review due |
-| May 1 | M |  |  |  |
-| May 3 | W |  |  |  |
-| May 8 | M |  |  |  |
-| May 10 | W |  |  |  |
-| May 15 | M |  |  |  |
-| May 17 | W |  |  | Methods/initial results due |
-| May 22 | M |  |  |  |
-| May 24 | W |  |  |  |
-| May 29 | M |  |  |  |
-| May 31 | W |  |  |  |
-| Jun. 1 | Th |  |  | Poster presentation |
-| Jun. 5 | M |  |  | Final paper due |
+| Date | Day | Topic | Readings | PS | Project assignments |
+|---------|-----|-----------------------------------------|----------|--------------------|-----------------------------|
+| Mar. 27 | M | Overview of term |  |  |  |
+| Mar. 29 | W | Reproducibility in science |  |  |  |
+| Apr. 3 | M | Abstract/intro/conclusion |  |  |  |
+| Apr. 5 | W | Proposal presentations |  |  | Written proposal due |
+| Apr. 10 | M | Abstract/intro/conclusion |  |  |  |
+| Apr. 12 | W | Data section of paper |  |  |  |
+| Apr. 17 | M | Data section of paper |  |  |  |
+| Apr. 19 | W | Theory section of paper |  | Data PS due |  |
+| Apr. 24 | M | Computation section of paper |  |  | Lit review due |
+| Apr. 26 | W | Computation section of paper |  |  |  |
+| May 1 | M | Results/experiment section of paper |  | Computation PS due |  |
+| May 3 | W | Diagnostic tests for OLS/GLM |  |  |  |
+| May 8 | M | Interaction terms |  |  |  |
+| May 10 | W | Missing data and multiple imputation |  |  |  |
+| May 15 | M | Multilevel data |  | Hodgepodge PS due |  |
+| May 17 | W | p-hacking |  |  | Methods/initial results due |
+| May 22 | M |  |  |  |  |
+| May 24 | W | Effective presentations (poster/slides) |  |  |  |
+| May 29 | M | No class (Memorial Day) |  |  |  |
+| May 31 | W | In-class poster presentations |  |  |  |
+| Jun. 1 | Th |  |  |  | Poster presentation |
+| Jun. 5 | M |  |  |  | Final paper due |
 
 ## References and Readings ##
 

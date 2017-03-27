@@ -58,7 +58,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr. 12 | W | Data section of paper |  |  |
 | Apr. 17 | M | Data section of paper |  |  |
 | Apr. 19 | W | Theory section of paper |  | Data PS |
-| Apr. 24 | M | Computation section of paper |  | Theory section |
+| Apr. 24 | M | Computation section of paper |  | Literature review section |
 | Apr. 26 | W | Computation section of paper |  |  |
 | May 1 | M | Results/experiment section of paper |  | Computation PS |
 | May 3 | W | Diagnostic tests for OLS/GLM |  |  |

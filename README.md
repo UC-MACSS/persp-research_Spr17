@@ -3,9 +3,9 @@
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Daniel Hedblom (TA) | Laila Noureldin (TA) |
 |--------------|--------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|--------------------------|
 | Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | hedblom@uchicago.edu | lhnoureldin@uchicago.edu |
-| Office | 250 Saieh Hall | 249 Saieh Hall |  |  |
-| Office Hours | W 2:30-4:30pm | Th 2-4pm |  |  |
-| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [hedblomdaniel](https://github.com/hedblomdaniel) |  |
+| Office | 250 Saieh Hall | 249 Saieh Hall | 248 Saieh Hall  | Harris School (Cafe) |
+| Office Hours | W 2:30-4:30pm | Th 2-4pm | M 1-3pm  | F 11:30-1:30 |
+| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [hedblomdaniel](https://github.com/hedblomdaniel) | [lailanoureldin](https://github.com/lailanoureldin)  |
 
 * **Meeting day/time**: MW 11:30-12:50pm, Saieh Hall, Room 247
 * Office hours also available by appointment

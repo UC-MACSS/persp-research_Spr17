@@ -29,6 +29,21 @@ This course focuses on applying computational methods to conducting social scien
 | Problem set | 10 | 3 | 30 |
 | **Total Points** |  |  | 150 |
 
+Students will turn assignments in via their own public GitHub repository named `MACS30200proj`. The directory structure of this repository should be the following.
+
+* `github.com/yourgithubhandle/MACS30200proj`
+  * ProblemSets
+    * PS1
+    * PS2
+    * PS3
+  * Proposal
+  * LitReview
+  * Theory
+  * MethodsResults
+  * Poster
+  * FinalPaper
+
+
 ## Disability services
 
 If you need any special accommodations, please provide us with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with me how your accommodations may be implemented in this course.

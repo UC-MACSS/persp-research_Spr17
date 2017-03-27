@@ -1,16 +1,14 @@
 # MACS 30200 - Perspectives on Computational Research (Spring 2017)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | TBD (TA) | TBD (TA) |
-|--------------|--------------------------------------------------------------|----------------------------------------------------|-----|-----|
-| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu |  |  |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Daniel Hedblom (TA) | Laila Noureldin (TA) |
+|--------------|--------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|--------------------------|
+| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | hedblom@uchicago.edu | lhnoureldin@uchicago.edu |
 | Office | 250 Saieh Hall | 249 Saieh Hall |  |  |
 | Office Hours | W 2:30-4:30pm | Th 2-4pm |  |  |
-| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) |  |  |
+| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [hedblomdaniel](https://github.com/hedblomdaniel) |  |
 
 * **Meeting day/time**: MW 11:30-12:50pm, Saieh Hall, Room 247
-* **Lab session**: W 5-5:50pm, Saieh Hall, Room 247
 * Office hours also available by appointment
-* TAs: TBD
 
 ## Course description
 

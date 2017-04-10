@@ -53,7 +53,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Mar. 27 | M | Overview of term |  |  |
 | Mar. 29 | W | Reproducibility in science |  |  |
 | Apr. 3 | M | Abstract/intro/conclusion |  |  |
-| Apr. 5 | W | Proposal presentations |  | Written proposal |
+| Apr. 5 | W | Proposal presentations |  | Proposal slides & present |
 | Apr. 10 | M | Abstract/intro/conclusion |  |  |
 | Apr. 12 | W | Data section of paper |  |  |
 | Apr. 17 | M | Data section of paper |  |  |

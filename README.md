@@ -48,30 +48,30 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 ## Course schedule (lite)
 
-| Date | Day | Topic | Readings | Assignment due dates |
-|---------|-----|-----------------------------------------------|----------|-------------------------|
-| Mar. 27 | M | Overview of term |  |  |
-| Mar. 29 | W | Reproducibility in science |  |  |
-| Apr. 3 | M | Abstract/intro/conclusion |  |  |
-| Apr. 5 | W | Proposal presentations |  | Proposal slides & present |
-| Apr. 10 | M | Abstract/intro/conclusion |  |  |
-| Apr. 12 | W | Data section of paper |  |  |
-| Apr. 17 | M | Data section of paper |  |  |
-| Apr. 19 | W | Theory section of paper |  | Data PS |
-| Apr. 24 | M | Computation section of paper |  | Literature review section |
-| Apr. 26 | W | Computation section of paper |  |  |
-| May 1 | M | Results/experiment section of paper |  | Computation PS |
-| May 3 | W | Diagnostic tests for OLS/GLM |  |  |
-| May 8 | M | Interaction terms |  |  |
-| May 10 | W | Missing data and multiple imputation |  |  |
-| May 15 | M | Multilevel data |  | Hodgepodge PS |
-| May 17 | W | p-hacking |  | Methods/initial results |
-| May 22 | M | Frequentist vs. Bayesian schools of inference |  |  |
-| May 24 | W | Effective presentations (poster/slides) |  |  |
-| May 29 | M | No class (Memorial Day) |  |  |
-| May 31 | W | In-class poster presentations |  |  |
-| Jun. 1 | Th |  |  | Poster presentations |
-| Jun. 5 | M |  |  | Final paper |
+| Date | Day | Topic | Assignment due dates |
+|---------|-----|-----------------------------------------------|---------------------------|
+| Mar. 27 | M | Overview of term |  |
+| Mar. 29 | W | Reproducibility in science |  |
+| Apr. 3 | M | Abstract/intro/conclusion |  |
+| Apr. 5 | W | Proposal presentations | Proposal slides & present |
+| Apr. 10 | M | Abstract/intro/conclusion |  |
+| Apr. 12 | W | Data section of paper |  |
+| Apr. 17 | M | Data section of paper |  |
+| Apr. 19 | W | Theory section of paper | Data PS |
+| Apr. 24 | M | Computation section of paper | Literature review section |
+| Apr. 26 | W | Computation section of paper |  |
+| May 1 | M | Results/experiment section of paper | Computation PS |
+| May 3 | W | Diagnostic tests for OLS/GLM |  |
+| May 8 | M | Interaction terms |  |
+| May 10 | W | Missing data and multiple imputation |  |
+| May 15 | M | Multilevel data | Hodgepodge PS |
+| May 17 | W | p-hacking | Methods/initial results |
+| May 22 | M | Frequentist vs. Bayesian schools of inference |  |
+| May 24 | W | Effective presentations (poster/slides) |  |
+| May 29 | M | No class (Memorial Day) |  |
+| May 31 | W | In-class poster presentations |  |
+| Jun. 1 | Th |  | Poster presentations |
+| Jun. 5 | M |  | Final paper |
 
 ## References and Readings ##
 

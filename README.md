@@ -77,4 +77,15 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 All readings are required unless otherwise noted. Adjustments can be made throughout the quarter; be sure to check this repository frequently to make sure you know all the assigned readings.
 
+* Diagnostic tests for OLS/GLM
+    * Ch 3.3.3 in [*An Introduction to Statistical Learning*](http://link.springer.com.proxy.uchicago.edu/book/10.1007%2F978-1-4614-7138-7)
+* Interaction terms
+    * [Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political analysis*, 63-82.](http://www.jstor.org.proxy.uchicago.edu/stable/25791835)
+* p-hacking
+    * [Wasserstein, R. L., & Lazar, N. A. (2016). The ASA's statement on p-values: context, process, and purpose. *Am Stat*, 70(2), 129-133.](http://amstat.tandfonline.com.proxy.uchicago.edu/doi/full/10.1080/00031305.2016.1154108)
+    * ["Science Isn't Broken" by Christie Aschwanden. *FiveThirtyEight*.](https://fivethirtyeight.com/features/science-isnt-broken/)
+    * [Beall, A. T., & Tracy, J. L. (2013). Women are more likely to wear red or pink at peak fertility. *Psychological Science*, 0956797613476045.](http://journals.sagepub.com.proxy.uchicago.edu/doi/abs/10.1177/0956797613476045)
+    * ["Too Good to Be True" by Andrew Gelman. *Slate*.](http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html)
+    * ["Response by Jessica Tracy and Alec Beall to my critique of the methods in their paper, 'Women Are More Likely to Wear Red or Pink at Peak Fertility'" by Andrew Gelman.](http://andrewgelman.com/2013/07/31/response-by-jessica-tracy-and-alec-beall-to-my-criticism-of-their-paper/)
+
 

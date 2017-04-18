@@ -82,6 +82,7 @@ All readings are required unless otherwise noted. Adjustments can be made throug
 * Interaction terms
     * [Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political analysis*, 63-82.](http://www.jstor.org.proxy.uchicago.edu/stable/25791835)
 * p-hacking
+    * [*Significant*](https://xkcd.com/882/)
     * [Wasserstein, R. L., & Lazar, N. A. (2016). The ASA's statement on p-values: context, process, and purpose. *Am Stat*, 70(2), 129-133.](http://amstat.tandfonline.com.proxy.uchicago.edu/doi/full/10.1080/00031305.2016.1154108)
     * ["Science Isn't Broken" by Christie Aschwanden. *FiveThirtyEight*.](https://fivethirtyeight.com/features/science-isnt-broken/)
     * [Beall, A. T., & Tracy, J. L. (2013). Women are more likely to wear red or pink at peak fertility. *Psychological Science*, 0956797613476045.](http://journals.sagepub.com.proxy.uchicago.edu/doi/abs/10.1177/0956797613476045)

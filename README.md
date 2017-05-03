@@ -61,7 +61,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr. 24 | M | Computational results section of paper | Literature review section |
 | Apr. 26 | W | Computational results section of paper |  |
 | May 1 | M | Workshop papers/office visits |  |
-| May 3 | W | Diagnostic tests for OLS/GLM | Computation PS |
+| May 3 | W | Diagnostic tests for OLS | Computation PS |
 | May 8 | M | Interaction terms |  |
 | May 10 | W | Missing data and multiple imputation |  |
 | May 15 | M | Multilevel data | Hodgepodge PS |

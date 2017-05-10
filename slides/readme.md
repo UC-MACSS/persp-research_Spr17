@@ -11,3 +11,8 @@ Slides and lecture notes for MACS 30200
 
 * [Interaction terms in regression models](http://cfss.uchicago.edu/persp013_interaction_terms.html)
 * [Slides for interaction terms](http://cfss.uchicago.edu/extras/persp_interaction_terms_slides.html)
+
+## Missing data in regression models
+
+* [Missing data in regression models](http://cfss.uchicago.edu/persp014_missing_data.html)
+* [Slides for missing data](http://cfss.uchicago.edu/extras/persp_missing_data_slides.html)

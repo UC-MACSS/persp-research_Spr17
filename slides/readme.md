@@ -16,3 +16,8 @@ Slides and lecture notes for MACS 30200
 
 * [Missing data in regression models](http://cfss.uchicago.edu/persp014_missing_data.html)
 * [Slides for missing data](http://cfss.uchicago.edu/extras/persp_missing_data_slides.html)
+
+## Multilevel data
+
+* [Multilevel data](http://cfss.uchicago.edu/persp015_multilevel_data.html)
+* [Slides for multilevel data](http://cfss.uchicago.edu/extras/persp_multilevel_data_slides.html)

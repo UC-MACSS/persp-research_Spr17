@@ -21,3 +21,13 @@ Slides and lecture notes for MACS 30200
 
 * [Multilevel data](http://cfss.uchicago.edu/persp015_multilevel_data.html)
 * [Slides for multilevel data](http://cfss.uchicago.edu/extras/persp_multilevel_data_slides.html)
+
+## p-hacking
+
+* [p-hacking](http://cfss.uchicago.edu/persp016_p_hacking.html)
+* [Slides for p-hacking](http://cfss.uchicago.edu/extras/persp_p_hacking_slides.html)
+
+## Bayesian vs. frequentist inference
+
+* [Bayesian vs. frequentist inference](http://cfss.uchicago.edu/persp017_inference.html)
+* [Slides for inference](http://cfss.uchicago.edu/extras/persp_inference_slides.html)

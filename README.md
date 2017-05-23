@@ -71,7 +71,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 29 | M | No class (Memorial Day) |  |
 | May 31 | W | In-class poster presentations |  |
 | Jun. 1 | Th |  | Poster presentations |
-| Jun. 5 | M |  | Final paper |
+| Jun. 4 | Su |  | Final paper due at 11:59pm |
 
 ## References and Readings ##
 

@@ -31,3 +31,8 @@ Slides and lecture notes for MACS 30200
 
 * [Bayesian vs. frequentist inference](http://cfss.uchicago.edu/persp017_inference.html)
 * [Slides for inference](http://cfss.uchicago.edu/extras/persp_inference_slides.html)
+
+## Presenting academic research
+
+* [Presenting academic research](http://cfss.uchicago.edu/persp018_presenting_research.html)
+* [Slides for presenting academic research](http://cfss.uchicago.edu/extras/persp_presenting_research_slides.html)
